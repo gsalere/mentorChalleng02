@@ -39,8 +39,8 @@ p{
     padding: 0px;
     background-color: hsl(225, 100%, 98%);
     border: 2px solid hsl(225, 100%, 98%);
-    margin-left: 13%;
-    width: 45vh;
+    margin-left: 50px;
+    width: 350px;
 }
 
 .alterar{
@@ -76,9 +76,9 @@ p{
 .btn{
     background-color:  hsl(254, 100%, 50%);
     padding: 15px;
-    width: 45vh;
+    width: 350px;
     color: #fff;
-    margin-left: 13%;
+    margin-left: 50px;
     border: 10px hsl(254, 100%, 50%);
     border-radius: 10px;
     box-shadow: 0px 10px 5px rgb(234, 233, 233);
