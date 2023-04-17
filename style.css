@@ -1,0 +1,101 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    font-family: 'Red Hat Display', sans-serif;
+    background: url(./images/pattern-background-desktop.svg) no-repeat;
+    background-color: hsl(225, 100%, 94%);
+}
+
+.principal{
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid hsl(225, 100%, 94%);
+    border-radius: 30px;
+}
+
+.menu{
+    padding: 10px;
+}
+
+h2{
+    text-align: center;
+    font-weight: 900;
+    color: hsl(223, 47%, 23%);
+}
+
+p{
+    color: #8e929c;
+    font-weight: 500;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+.plano{
+    display: flex;
+    padding: 0px;
+    background-color: hsl(225, 100%, 98%);
+    border: 2px solid hsl(225, 100%, 98%);
+    margin-left: 13%;
+    width: 45vh;
+}
+
+.alterar{
+    margin:auto;
+    margin-right: 20px;
+}
+
+.alterar a:hover{
+    text-decoration: none;
+    color: hsl(254, 88%, 63%) ;
+}
+
+
+.alterar h5{
+    color: hsl(223, 47%, 23%);
+}
+
+.anual{
+    margin-left: 10px;
+    line-height: 0.3em;
+    
+}
+
+.botao{
+    margin: 20px auto auto auto;
+
+}
+
+.btn{
+    background-color:  hsl(254, 100%, 50%);
+    padding: 15px;
+    width: 45vh;
+    color: #fff;
+    margin-left: 13%;
+    border: 10px hsl(254, 100%, 50%);
+    border-radius: 10px;
+    box-shadow: 0px 10px 5px rgb(234, 233, 233);
+    font-weight: 700;
+    
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color:  hsl(254, 88%, 63%);
+    border: 10px hsl(254, 88%, 63%);
+    
+}
+
+.music{
+    margin: 10px 10px 0px 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.botao p a:hover{
+    text-decoration: none;
+    color: hsl(223, 47%, 23%);
+}
